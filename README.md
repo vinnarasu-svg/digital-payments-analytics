@@ -202,4 +202,5 @@ Data Analyst | SQL • Power BI • Snowflake
 
 ---
 markdown![Dashboard Preview](dashboard1.png)
+markdown![snowflake_query](sql_quary.png)
 
