@@ -201,4 +201,5 @@ Data Analyst | SQL • Power BI • Snowflake
 🐙 [GitHub Profile:https://github.com/vinnarasu-svg]
 
 ---
+markdown![Dashboard Preview](dashboard1.png)
 
