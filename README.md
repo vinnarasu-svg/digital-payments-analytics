@@ -204,5 +204,5 @@ Data Analyst | SQL • Power BI • Snowflake
 
 markdown![Dashboard Preview](<img width="1125" height="636" alt="dashboard1 png" src="https://github.com/user-attachments/assets/28de2c97-7a6e-4a1e-9f57-ffcb07f4fa8c" />
 )
-markdown![Dashboard Preview](<img width="1903" height="906" alt="sql_quary png" src="https://github.com/user-attachments/assets/4233ea2e-a526-4a6b-9762-b4081830c7a8" />
+markdown![Query](<img width="1903" height="906" alt="sql_quary png" src="https://github.com/user-attachments/assets/4233ea2e-a526-4a6b-9762-b4081830c7a8" />
 )
