@@ -40,5 +40,5 @@ data-analysis-project
 After uploading your dashboard screenshot, add this line below the Power BI section in README:
 
 ```markdown
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard1.png)
 ```
