@@ -194,11 +194,11 @@ digital-payments-analytics/
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[VINNARASU A]**  
 Data Analyst | SQL • Power BI • Snowflake  
-📧 [your.email@gmail.com]  
-🔗 [LinkedIn Profile URL]  
-🐙 [GitHub Profile URL]
+📧 [vinnarasutn49@gmail.com]  
+🔗 [LinkedIn Profile:https://www.linkedin.com/in/vinnarasu-a-331434326?utm_source=share_via&utm_content=profile&utm_medium=member_android]  
+🐙 [GitHub Profile:https://github.com/vinnarasu-svg]
 
 ---
 
